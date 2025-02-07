@@ -10,7 +10,7 @@ int main(){
         for(int j=0;j<n;j++)
         {
             x=n*i+j+1;
-            cout<<left<<setw(5)<<x<<"";
+            cout<<x<<"  ";
         }
         cout<<endl;
     }
